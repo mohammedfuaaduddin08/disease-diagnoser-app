@@ -47,6 +47,9 @@ disease-diagnoser-app/
 
 *<img width="3024" height="1668" alt="image" src="https://github.com/user-attachments/assets/7739604a-785a-465f-8c13-09e6873a38ac" />
 *
+*<img width="1512" height="834" alt="Screenshot 2025-10-03 at 12 28 04 PM" src="https://github.com/user-attachments/assets/a07189e6-d4ff-4ec5-80dc-ba396218a3cc" />
+*
+
 
 ---
 
