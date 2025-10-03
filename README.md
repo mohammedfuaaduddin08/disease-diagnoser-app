@@ -56,6 +56,7 @@ disease-diagnoser-app/
 ## 👩‍💻 Author / Role
 This project was developed in **MIT App Inventor**.  
 Role: Designed UI, implemented block-based logic for disease diagnosis, and added supportive features like reminders & translation.
+Team: Mohammed Fuaaduddin, Tej Deep, Ishant Vedak, Eshan Vargheese, Karthik SP, Ibrahim Mustafa
 
 ---
 
